@@ -12,7 +12,7 @@ Corompus a été développé pour faire des recherches sur soi-même et pour voi
 Installation Linux
 =
     sudo apt install git python3
-    git clone https://github.com/Famalo/Corompus
+    git clone https://github.com/SullyvanG/OSINT-TOOL
     cd Corompus
     python3 -m pip install -r requirements.txt
     
@@ -53,10 +53,6 @@ Et executer:
 python Corompus.py
 ```
 
-Discord
-=
-Si vous avez des questions, des idées, des problèmes concernant Corompus ou si vous voulez juste suivre l'avancement de ce projet.  
-- [Serveur Discord](https://discord.gg/UHCcXgm)
 
 Compatible
 =
