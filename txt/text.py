@@ -1,0 +1,1 @@
+text = ['Faut sucer Valag']
